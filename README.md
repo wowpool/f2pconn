@@ -13,6 +13,8 @@ Usage of ./minerProxy_xxx:
   -service string
       "start", "stop", "restart", "install", "uninstall", "status"
 ```
+ Support bootup if install as service
+
 ## Configuration instructions：
 
 minerAgent_xxxx.yaml   
